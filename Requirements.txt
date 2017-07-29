@@ -1,2 +1,2 @@
 snap.py  (https://snap.stanford.edu/snappy/index.html#download)
-HLL
+HLL- HyperLogLog (https://github.com/MerlinDMC/tarantool-hyperloglog)
